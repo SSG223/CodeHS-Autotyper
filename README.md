@@ -1,4 +1,4 @@
-# CodeHS Auto Typer
+# CodeHS Auto Typer / Ghost Typer
 
 A userscript that types code into the CodeHS editor one keystroke at a time, for situations where you can't paste directly (a broken `V` or `C` key, a locked-down keyboard, and so on).
 
