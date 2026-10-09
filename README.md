@@ -70,7 +70,3 @@ The script uses `@grant none` so it runs in the page's own context and can read 
 ## Responsible use
 
 This tool automates typing. It does not change what you are allowed to submit. Use it only where automation and outside code are permitted, and follow your school's and instructor's academic integrity rules.
-
-## License
-
-Add a license of your choice before publishing, for example MIT.
